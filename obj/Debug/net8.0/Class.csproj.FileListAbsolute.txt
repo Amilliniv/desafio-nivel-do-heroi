@@ -1,0 +1,14 @@
+C:\Users\Windows 10\Desktop\Class\bin\Debug\net8.0\Class.exe
+C:\Users\Windows 10\Desktop\Class\bin\Debug\net8.0\Class.deps.json
+C:\Users\Windows 10\Desktop\Class\bin\Debug\net8.0\Class.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Class\bin\Debug\net8.0\Class.dll
+C:\Users\Windows 10\Desktop\Class\bin\Debug\net8.0\Class.pdb
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.dll
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\refint\Class.dll
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.pdb
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\Class.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\Class\obj\Debug\net8.0\ref\Class.dll
